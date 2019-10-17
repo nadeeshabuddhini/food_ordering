@@ -1,0 +1,29 @@
+.box1{
+	color: #ffffff;
+	background-color: blue;
+
+}
+.box2{
+	color: #ff2211;
+	background-color: yellow;
+
+}
+.box3{
+	color: #ff32ff;
+	background-color: red;
+
+}
+.valid1{
+	background-color:#c5f89b;
+}
+.error1{
+	background-color:#f8ac9b;
+}
+.valid2{
+	color:green;
+
+}
+.error2{
+	color:red;
+
+}

@@ -1,0 +1,17 @@
+validation : First Name, Last Name, NIC, Password match, Email
+
+"Password must be length of more than 8 characters"
+
+"First Name should be more than 3 charcters"
+
+
+
+group no : 04
+
+15APC2325 - W.G.G BUDDHINI
+15APC2341 - M.JASMAN
+15APC2359 - W.A.M.A KUMARI
+15APC2378 - R.M.D.S RATHNAYAKA
+15APC2394 - S.K.S.B WEERASINGHE
+
+	
